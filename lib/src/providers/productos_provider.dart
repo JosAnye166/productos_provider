@@ -7,6 +7,7 @@ import 'package:http/http.dart' as http;
 import 'package:http_parser/http_parser.dart';
 
 class ProductosProvider {
+  //mas Base de Datos
   final String _url = 'https://flutter-varios-34b7f-default-rtdb.firebaseio.com';
    
    final _prefs = new PreferenciasUsuario();
