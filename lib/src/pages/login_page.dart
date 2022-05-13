@@ -19,6 +19,7 @@ class LoginPage extends StatelessWidget {
     ));
   }
 
+  //Crear Fondo
   Widget _crearFondo(BuildContext context) {
     final size = MediaQuery.of(context).size;
     final fondoMorado = Container(
