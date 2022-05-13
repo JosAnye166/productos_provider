@@ -12,6 +12,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 */
 
+//Presfer Usuarios
+
 class PreferenciasUsuario {
   static final PreferenciasUsuario _instancia =
       new PreferenciasUsuario._internal();
